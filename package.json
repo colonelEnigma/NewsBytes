@@ -1,0 +1,15 @@
+{
+  "name": "shortmyurl",
+  "version": "1.0.0",
+  "description": "a url hashing system",
+  "main": "index.js",
+  "scripts": {
+    "run": "nodemon index.js"
+  },
+  "author": "Praveen Ranjan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
