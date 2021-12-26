@@ -4,7 +4,7 @@
   "description": "a url hashing system",
   "main": "index.js",
   "scripts": {
-    "run": "nodemon index.js"
+    "start": "nodemon index.js"
   },
   "author": "Praveen Ranjan",
   "license": "ISC",
