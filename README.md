@@ -1,6 +1,9 @@
 # NewsBytes
 a url hashing system
 
+# Access URL
+http://52.66.149.74:3000/
+
 
 # Choice of Architecture
 Client-Server Architecture
